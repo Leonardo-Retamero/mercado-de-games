@@ -107,3 +107,9 @@ Este gráfico apresenta as editoras que mais publicaram jogos, independentemente
 - Plotly
 
 - Streamlit
+
+---
+
+### 🚀 Conclusão
+
+O dashboard permite uma visão abrangente do mercado global de jogos de PS4, combinando indicadores estratégicos e visualizações claras. A análise evidencia padrões regionais, concentração de vendas, gêneros dominantes e a atuação das principais editoras, sendo uma excelente ferramenta para exploração de dados e storytelling analítico.
