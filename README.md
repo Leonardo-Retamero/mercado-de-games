@@ -71,3 +71,12 @@ O gráfico de pizza apresenta a participação percentual de cada região no tot
 Este ranking mostra os jogos com maior volume de vendas globais. Ele ajuda a identificar os jogos de maior sucesso comercial e compreender quais franquias e estilos tiveram maior impacto no mercado.
 
 <img width="885" height="453" alt="image" src="https://github.com/user-attachments/assets/e1c35f51-9f3d-4cae-8f4a-34b9ea3b2c2c" />
+
+---
+
+### 4️⃣ Editoras com Maior Volume de Vendas (mi)
+
+O gráfico apresenta as editoras responsáveis pelo maior volume de vendas globais. A análise permite observar a concentração de mercado e identificar as empresas que mais se destacaram comercialmente no ecossistema do PS4.
+
+<img width="934" height="469" alt="image" src="https://github.com/user-attachments/assets/716f55bc-1db3-4568-b741-7ade16cf83b5" />
+
