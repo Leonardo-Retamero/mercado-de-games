@@ -55,3 +55,12 @@ O projeto foi desenvolvido com foco em Data Analytics e Data Visualization, util
 Este gráfico de linha mostra como as vendas evoluíram ao longo dos anos em diferentes regiões (North America, Europe, Japan e Rest of World). Ele permite identificar tendências de crescimento, estabilidade ou queda, além de comparar o desempenho regional ao longo do tempo.
 
 <img width="904" height="443" alt="image" src="https://github.com/user-attachments/assets/273b4463-3aee-4732-82b1-73b97dc391a5" />
+
+---
+
+### 2️⃣ Proporção das Vendas de Jogos por Região
+
+O gráfico de pizza apresenta a participação percentual de cada região no total de vendas globais. A visualização evidencia quais mercados são mais relevantes para o PS4, destacando a concentração de vendas entre as principais regiões.
+
+<img width="779" height="475" alt="image" src="https://github.com/user-attachments/assets/1bcd0ba0-e68e-4c33-bceb-03d0ff9c5fa1" />
+
