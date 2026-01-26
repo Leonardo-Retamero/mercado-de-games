@@ -49,3 +49,9 @@ O projeto foi desenvolvido com foco em Data Analytics e Data Visualization, util
 - Esses indicadores fornecem uma visão rápida e objetiva do tamanho e da relevância do mercado analisado.
 
 ---
+
+### 1️⃣ Evolução das Vendas de Jogos por Região (mi)
+
+Este gráfico de linha mostra como as vendas evoluíram ao longo dos anos em diferentes regiões (North America, Europe, Japan e Rest of World). Ele permite identificar tendências de crescimento, estabilidade ou queda, além de comparar o desempenho regional ao longo do tempo.
+
+<img width="904" height="443" alt="image" src="https://github.com/user-attachments/assets/273b4463-3aee-4732-82b1-73b97dc391a5" />
