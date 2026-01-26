@@ -80,3 +80,14 @@ O gráfico apresenta as editoras responsáveis pelo maior volume de vendas globa
 
 <img width="934" height="469" alt="image" src="https://github.com/user-attachments/assets/716f55bc-1db3-4568-b741-7ade16cf83b5" />
 
+---
+
+### 5️⃣ Gêneros com Maior Volume de Vendas (mi)
+
+Neste gráfico é possível analisar quais gêneros de jogos geraram mais vendas. Ele ajuda a compreender as preferências do público e os tipos de jogos com maior apelo comercial na plataforma.
+
+<img width="895" height="449" alt="image" src="https://github.com/user-attachments/assets/37921963-12f3-4ed7-af94-6f9d81fcc83f" />
+
+---
+
+###
