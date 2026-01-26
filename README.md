@@ -64,3 +64,10 @@ O gráfico de pizza apresenta a participação percentual de cada região no tot
 
 <img width="779" height="475" alt="image" src="https://github.com/user-attachments/assets/1bcd0ba0-e68e-4c33-bceb-03d0ff9c5fa1" />
 
+---
+
+### 3️⃣ Jogos Mais Vendidos (mi)
+
+Este ranking mostra os jogos com maior volume de vendas globais. Ele ajuda a identificar os jogos de maior sucesso comercial e compreender quais franquias e estilos tiveram maior impacto no mercado.
+
+<img width="885" height="453" alt="image" src="https://github.com/user-attachments/assets/e1c35f51-9f3d-4cae-8f4a-34b9ea3b2c2c" />
