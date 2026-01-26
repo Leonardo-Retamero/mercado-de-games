@@ -90,4 +90,10 @@ Neste gráfico é possível analisar quais gêneros de jogos geraram mais vendas
 
 ---
 
-###
+### 6️⃣ Editoras com Mais Jogos Publicados
+
+Este gráfico apresenta as editoras que mais publicaram jogos, independentemente do volume de vendas. A análise complementa a visão comercial ao mostrar quais empresas apostaram em maior diversidade e quantidade de jogos.
+
+<img width="914" height="443" alt="image" src="https://github.com/user-attachments/assets/2d0fbecc-732a-4ea2-94d8-249d93fbfd9c" />
+
+
