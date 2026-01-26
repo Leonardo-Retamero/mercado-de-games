@@ -33,3 +33,19 @@ O projeto foi desenvolvido com foco em Data Analytics e Data Visualization, util
 - Quais editoras publicaram mais jogos?
 
 ---
+
+### 📊 Indicadores Principais
+
+- Total de Jogos: quantidade total de jogos de PS4 analisados.
+
+- Total de Editoras: número de editoras únicas presentes na base.
+
+- Total de Gêneros: quantidade de gêneros distintos.
+
+- Total de Vendas (mi): soma das vendas globais em milhões de unidades.
+
+- Jogo Mais Vendido: título com o maior volume de vendas globais.
+
+- Esses indicadores fornecem uma visão rápida e objetiva do tamanho e da relevância do mercado analisado.
+
+---
