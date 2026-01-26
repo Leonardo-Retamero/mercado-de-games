@@ -7,3 +7,29 @@ Este projeto tem como objetivo analisar as vendas globais de jogos de PlayStatio
 O projeto foi desenvolvido com foco em Data Analytics e Data Visualization, utilizando Python para tratamento dos dados e Plotly + Streamlit para construção do dashboard interativo.
 
 ---
+
+### 🎯 Perguntas Respondidas pelo Projeto
+
+- Quantos jogos de PS4 existem na base analisada?
+
+- Quantas editoras participaram do mercado de jogos do PS4?
+
+- Quantos gêneros diferentes estão representados?
+
+- Qual foi o volume total de vendas globais (em milhões de unidades)?
+
+- Qual foi o jogo mais vendido do PS4?
+
+- Como as vendas evoluíram ao longo do tempo em cada região?
+
+- Qual é a participação percentual de cada região nas vendas globais?
+
+- Quais são os jogos mais vendidos?
+
+- Quais editoras concentram o maior volume de vendas?
+
+- Quais gêneros apresentam maior volume de vendas?
+
+- Quais editoras publicaram mais jogos?
+
+---
