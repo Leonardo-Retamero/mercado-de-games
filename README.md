@@ -96,4 +96,14 @@ Este gráfico apresenta as editoras que mais publicaram jogos, independentemente
 
 <img width="914" height="443" alt="image" src="https://github.com/user-attachments/assets/2d0fbecc-732a-4ea2-94d8-249d93fbfd9c" />
 
+---
 
+### 🛠️ Tecnologias Utilizadas
+
+- Python
+
+- Pandas
+
+- Plotly
+
+- Streamlit
