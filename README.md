@@ -7,6 +7,7 @@ Este projeto tem como objetivo analisar as vendas globais de jogos de PlayStatio
 O projeto foi desenvolvido com foco em Data Analytics e Data Visualization, utilizando Python para tratamento dos dados e Plotly + Streamlit para construção do dashboard interativo.
 
 ### 🔗 [Acesse o Dashboard pelo Streamlit](https://mercado-de-games.streamlit.app/)
+### 🔗 [Base de Dados](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset/data)
 
 ---
 
