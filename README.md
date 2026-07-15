@@ -42,6 +42,10 @@ Foram realizadas diversas análises exploratórias, incluindo:
 - Participação percentual das regiões nas vendas globais;
 - Comportamento de editoras, gêneros e jogos.
 
+### Preparação dos dados
+- Codificação das variáveis categóricas utilizando LabelEncoder;
+- Exportação da base tratada para utilização no dashboard.
+
 ---
 
 ### 🎯 Perguntas Respondidas pelo Projeto
