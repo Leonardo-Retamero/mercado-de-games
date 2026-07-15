@@ -31,6 +31,14 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 - Remoção de registros incompletos;
 - Remoção dos registros referentes aos anos de 2019 e 2020 por apresentarem inconsistências na base utilizada.
 
+### Análise Exploratória (EDA)
+
+Foram realizadas diversas análises exploratórias, incluindo:
+
+- Evolução das vendas globais ao longo dos anos;
+- Distribuição das vendas;
+- Identificação de outliers;
+
 ---
 
 ### 🎯 Perguntas Respondidas pelo Projeto
