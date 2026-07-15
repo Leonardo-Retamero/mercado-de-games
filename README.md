@@ -29,6 +29,7 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 
 - Identificação de valores ausentes;
 - Remoção de registros incompletos;
+- Remoção dos registros referentes aos anos de 2019 e 2020 por apresentarem inconsistências na base utilizada.
 
 ---
 
