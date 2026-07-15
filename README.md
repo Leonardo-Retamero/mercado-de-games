@@ -16,9 +16,12 @@ Neste projeto foi realizada uma análise exploratória dos dados de vendas globa
 Durante a construção do projeto foram realizadas as seguintes etapas:
 
 ### Importação dos dados
-- Carregamento do dataset utilizando Pandas;
+
+- Carregamento do dataset utilizando Pandas.
 
 ### Análise inicial
+
+- Verificação das dimensões da base;
 
 ---
 
