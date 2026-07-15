@@ -28,6 +28,7 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 ### Tratamento dos dados
 
 - Identificação de valores ausentes;
+- Remoção de registros incompletos;
 
 ---
 
