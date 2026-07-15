@@ -38,6 +38,9 @@ Foram realizadas diversas análises exploratórias, incluindo:
 - Evolução das vendas globais ao longo dos anos;
 - Distribuição das vendas;
 - Identificação de outliers;
+- Análise dos jogos com maior volume de vendas;
+- Participação percentual das regiões nas vendas globais;
+- Comportamento de editoras, gêneros e jogos.
 
 ---
 
