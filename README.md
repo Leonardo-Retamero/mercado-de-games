@@ -102,6 +102,7 @@ Este gráfico apresenta as editoras que mais publicaram jogos, independentemente
 ### 🧠 Principais Insights
 
 - A Europa representa a maior parcela das vendas globais de jogos de PS4.
+- 
 
 ---
 
@@ -119,4 +120,4 @@ Este gráfico apresenta as editoras que mais publicaram jogos, independentemente
 
 ### 🚀 Conclusão
 
-O dashboard permite uma visão abrangente do mercado global de jogos de PS4, combinando indicadores estratégicos e visualizações claras. A análise evidencia padrões regionais, concentração de vendas, gêneros dominantes e a atuação das principais editoras, sendo uma excelente ferramenta para exploração de dados e storytelling analítico.
+Este projeto demonstra a aplicação de técnicas de análise de dados utilizando Python, Pandas e Plotly para transformar dados brutos em informações estratégicas. O dashboard desenvolvido permite explorar indicadores do mercado de jogos de PS4 de forma interativa, apoiando a identificação de tendências, comparação entre mercados e análise do desempenho comercial de jogos, gêneros e editoras.
