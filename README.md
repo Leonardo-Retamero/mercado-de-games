@@ -22,6 +22,7 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 ### Análise inicial
 
 - Verificação das dimensões da base;
+- Inspeção das primeiras linhas;
 
 ---
 
