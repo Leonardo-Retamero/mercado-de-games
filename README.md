@@ -23,6 +23,7 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 
 - Verificação das dimensões da base;
 - Inspeção das primeiras linhas;
+- Identificação dos tipos de dados.
 
 ---
 
