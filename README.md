@@ -99,6 +99,12 @@ Este gráfico apresenta as editoras que mais publicaram jogos, independentemente
 
 ---
 
+### 🧠 Principais Insights
+
+- A Europa representa a maior parcela das vendas globais de jogos de PS4.
+
+---
+
 ### 🛠️ Tecnologias Utilizadas
 
 - Python
