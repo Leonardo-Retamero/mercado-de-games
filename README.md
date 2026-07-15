@@ -11,6 +11,16 @@ Neste projeto foi realizada uma análise exploratória dos dados de vendas globa
 
 ---
 
+### 📝 Processo de Desenvolvimento
+
+Durante a construção do projeto foram realizadas as seguintes etapas:
+
+### Importação dos dados
+- Carregamento do dataset utilizando Pandas;
+
+
+---
+
 ### 🎯 Perguntas Respondidas pelo Projeto
 
 - Quantos jogos de PS4 existem na base analisada?
