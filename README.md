@@ -18,6 +18,7 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 ### Importação dos dados
 - Carregamento do dataset utilizando Pandas;
 
+### Análise inicial
 
 ---
 
