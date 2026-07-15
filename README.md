@@ -25,6 +25,10 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 - Inspeção das primeiras linhas;
 - Identificação dos tipos de dados.
 
+### Tratamento dos dados
+
+- Identificação de valores ausentes;
+
 ---
 
 ### 🎯 Perguntas Respondidas pelo Projeto
