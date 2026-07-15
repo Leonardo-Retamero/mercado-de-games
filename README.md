@@ -4,6 +4,8 @@
 
 Empresas do setor de games utilizam análises de vendas para identificar mercados mais relevantes, franquias de maior sucesso e tendências de consumo. Este projeto simula um cenário de Business Intelligence no qual dados históricos de vendas de jogos de PlayStation 4 foram tratados e transformados em um dashboard interativo para apoiar decisões de negócio.
 
+Neste projeto foi realizada uma análise exploratória dos dados de vendas globais de jogos de PlayStation 4 utilizando Python, seguida da construção de um dashboard interativo em Streamlit para facilitar a exploração dos resultados.
+
 ### 🔗 [Acesse o Dashboard pelo Streamlit](https://mercado-de-games.streamlit.app/)
 ### 🔗 [Base de Dados](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset/data)
 
