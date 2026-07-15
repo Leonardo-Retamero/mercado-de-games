@@ -48,6 +48,18 @@ Foram realizadas diversas análises exploratórias, incluindo:
 
 ---
 
+### 💪🏽 Desafios encontrados
+
+Durante o desenvolvimento do projeto alguns desafios precisaram ser resolvidos:
+
+- Identificação e remoção de registros com valores ausentes;
+- Tratamento de anos com informações inconsistentes (2019 e 2020);
+- Consolidação das vendas por região;
+- Transformação de variáveis categóricas para análises numéricas;
+- Organização das informações para construção dos indicadores utilizados no dashboard.
+
+---
+
 ### 🎯 Perguntas Respondidas pelo Projeto
 
 - Quantos jogos de PS4 existem na base analisada?
