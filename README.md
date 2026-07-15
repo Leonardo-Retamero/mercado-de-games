@@ -2,9 +2,7 @@
 
 ### 📌 Visão Geral do Projeto
 
-Este projeto tem como objetivo analisar as vendas globais de jogos de PlayStation 4 (PS4) por meio de indicadores e visualizações interativas. A partir de dados consolidados de vendas, o dashboard permite compreender o desempenho do mercado, as regiões mais relevantes, os jogos mais vendidos, além do papel das editoras e gêneros no sucesso comercial da plataforma.
-
-O projeto foi desenvolvido com foco em Data Analytics e Data Visualization, utilizando Python para tratamento dos dados e Plotly + Streamlit para construção do dashboard interativo.
+Empresas do setor de games utilizam análises de vendas para identificar mercados mais relevantes, franquias de maior sucesso e tendências de consumo. Este projeto simula um cenário de Business Intelligence no qual dados históricos de vendas de jogos de PlayStation 4 foram tratados e transformados em um dashboard interativo para apoiar decisões de negócio.
 
 ### 🔗 [Acesse o Dashboard pelo Streamlit](https://mercado-de-games.streamlit.app/)
 ### 🔗 [Base de Dados](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset/data)
