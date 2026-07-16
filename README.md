@@ -60,6 +60,15 @@ Durante o desenvolvimento do projeto alguns desafios precisaram ser resolvidos:
 
 ---
 
+### 🧠 Principais Insights
+
+Após a análise exploratória foi possível identificar alguns padrões relevantes:
+
+- América do Norte e Europa concentram a maior parte das vendas globais de jogos de PS4.
+
+
+---
+
 ### 🎯 Perguntas Respondidas pelo Projeto
 
 - Quantos jogos de PS4 existem na base analisada?
