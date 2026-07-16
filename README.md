@@ -65,7 +65,8 @@ Durante o desenvolvimento do projeto alguns desafios precisaram ser resolvidos:
 Após a análise exploratória foi possível identificar alguns padrões relevantes:
 
 - América do Norte e Europa concentram a maior parte das vendas globais de jogos de PS4.
-- O mercado japonês possui participação significativamente menor quando comparado às demais regiões. 
+- O mercado japonês possui participação significativamente menor quando comparado às demais regiões.
+- Poucos jogos ultrapassaram a marca de 10 milhões de unidades vendidas, evidenciando uma forte concentração de vendas em grandes franquias.
 
 
 ---
