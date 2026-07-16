@@ -73,6 +73,14 @@ Após a análise exploratória foi possível identificar alguns padrões relevan
 
 ---
 
+### ✔️ Competências Demonstradas
+
+Durante este projeto foram aplicadas técnicas de:
+
+- Limpeza de Dados
+- Manipulação de Dados
+
+
 ### 🎯 Perguntas Respondidas pelo Projeto
 
 - Quantos jogos de PS4 existem na base analisada?
