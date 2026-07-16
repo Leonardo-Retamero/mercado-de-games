@@ -69,7 +69,7 @@ Após a análise exploratória foi possível identificar alguns padrões relevan
 - Poucos jogos ultrapassaram a marca de 10 milhões de unidades vendidas, evidenciando uma forte concentração de vendas em grandes franquias.
 - Editoras como Activision, Ubisoft, Electronic Arts e Sony figuram entre as principais responsáveis pelos títulos de maior sucesso comercial.
 - As vendas apresentam comportamento concentrado, com poucos jogos responsáveis por grande parte do volume comercializado.
-
+- Os gêneros Action, Shooter e Sports concentram mais de 360 milhões de unidades vendidas, evidenciando que esses segmentos dominaram o mercado de jogos para PS4 e representaram a maior parte das vendas globais da plataforma.
 
 ---
 
