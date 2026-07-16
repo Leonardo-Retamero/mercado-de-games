@@ -79,6 +79,9 @@ Durante este projeto foram aplicadas técnicas de:
 
 - Limpeza de Dados
 - Manipulação de Dados
+- Análise Exploratória (EDA)
+- Visualização de Dados
+- Storytelling com Dados
 
 
 ### 🎯 Perguntas Respondidas pelo Projeto
