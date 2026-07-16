@@ -82,7 +82,10 @@ Durante este projeto foram aplicadas técnicas de:
 - Análise Exploratória (EDA)
 - Visualização de Dados
 - Storytelling com Dados
+- Business Intelligence
+- Deploy de aplicações com Streamlit
 
+---
 
 ### 🎯 Perguntas Respondidas pelo Projeto
 
