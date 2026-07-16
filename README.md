@@ -183,6 +183,8 @@ Este gráfico apresenta as editoras que mais publicaram jogos, independentemente
 
 - Pandas
 
+- NumPy
+
 - Plotly
 
 - Plotly Express
