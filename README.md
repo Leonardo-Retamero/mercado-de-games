@@ -187,6 +187,8 @@ Este gráfico apresenta as editoras que mais publicaram jogos, independentemente
 
 - Plotly
 
+- Matplotlib
+
 - Plotly Express
 
 - Streamlit
